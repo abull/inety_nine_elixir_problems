@@ -1,8 +1,8 @@
 defmodule NinetyNineElixirProblems.P3 do 
-  @doc ~S"""
+  @moduledoc ~S"""
   Find the nth element of a list.
 
-  ## Examplea
+  ## Examples:
       iex> NinetyNineElixirProblems.P3.nth [1,2,3,4], 2
       3
 

@@ -1,8 +1,8 @@
 defmodule NinetyNineElixirProblems.P2 do
-	@doc ~S"""
+	@moduledoc ~S"""
   Find the second to last element of a list.
 
-  ## Examplea
+  ## Examples:
       iex> NinetyNineElixirProblems.P2.last_but_one [1,2,3,4]
       3
 

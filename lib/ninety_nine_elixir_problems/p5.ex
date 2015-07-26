@@ -1,8 +1,8 @@
 defmodule NinetyNineElixirProblems.P5 do
-	@doc ~S"""
+	@moduledoc ~S"""
   Reverse a list
 
-  ## Examplea
+  ## Examples:
       iex> NinetyNineElixirProblems.P5.reverse [1,2,3,4]
       [4,3,2,1]
 

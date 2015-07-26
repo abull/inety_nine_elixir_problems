@@ -1,9 +1,9 @@
 defmodule NinetyNineElixirProblems.P6 do 
 
-	@doc """
+	@moduledoc """
 	Find out whether a list is a palindrome.
 
-	## Examples
+	## Examples:
     iex> NinetyNineElixirProblems.P6.palindrome? [1,2,3,4,3,2,1]
     true
 

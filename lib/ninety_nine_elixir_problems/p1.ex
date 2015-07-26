@@ -1,8 +1,8 @@
 defmodule NinetyNineElixirProblems.P1 do
-	@doc ~S"""
+	@moduledoc ~S"""
   Find the last element of a list.
 
-  ## Examplea
+  ## Examples:
       iex> NinetyNineElixirProblems.P1.last [1,2,3,4]
       4
 

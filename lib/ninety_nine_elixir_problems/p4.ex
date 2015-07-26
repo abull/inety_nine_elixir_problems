@@ -1,8 +1,8 @@
 defmodule NinetyNineElixirProblems.P4 do
-	@doc ~S"""
+	@moduledoc ~S"""
   Find the number of elements in a list.
 
-  ## Examplea
+  ## Examples:
       iex> NinetyNineElixirProblems.P4.count [1,2,3,4]
       4
 
