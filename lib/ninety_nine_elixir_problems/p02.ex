@@ -1,15 +1,15 @@
-defmodule NinetyNineElixirProblems.P2 do
-	@moduledoc ~S"""
+defmodule NinetyNineElixirProblems.P02 do
+  @moduledoc ~S"""
   Find the second to last element of a list.
 
   ## Examples:
-      iex> NinetyNineElixirProblems.P2.last_but_one [1,2,3,4]
+      iex> NinetyNineElixirProblems.P02.last_but_one [1,2,3,4]
       3
 
-      iex> NinetyNineElixirProblems.P2.last_but_one []
+      iex> NinetyNineElixirProblems.P02.last_but_one []
       nil
 
-      iex> NinetyNineElixirProblems.P2.last_but_one [1]
+      iex> NinetyNineElixirProblems.P02.last_but_one [1]
       nil
   """
 

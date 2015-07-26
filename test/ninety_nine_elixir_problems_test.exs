@@ -1,14 +1,16 @@
 defmodule NinetyNineElixirProblemsTest do
   use ExUnit.Case, async: true
 
-  doctest NinetyNineElixirProblems.P1
-  doctest NinetyNineElixirProblems.P2
-  doctest NinetyNineElixirProblems.P3
-  doctest NinetyNineElixirProblems.P4
-  doctest NinetyNineElixirProblems.P5
-  doctest NinetyNineElixirProblems.P6
-  doctest NinetyNineElixirProblems.P7
-  doctest NinetyNineElixirProblems.P8
-  doctest NinetyNineElixirProblems.P9
+  doctest NinetyNineElixirProblems.P01
+  doctest NinetyNineElixirProblems.P02
+  doctest NinetyNineElixirProblems.P03
+  doctest NinetyNineElixirProblems.P04
+  doctest NinetyNineElixirProblems.P05
+  doctest NinetyNineElixirProblems.P06
+  doctest NinetyNineElixirProblems.P07
+  doctest NinetyNineElixirProblems.P08
+  doctest NinetyNineElixirProblems.P09
+  doctest NinetyNineElixirProblems.P10
+  doctest NinetyNineElixirProblems.P11
 
 end

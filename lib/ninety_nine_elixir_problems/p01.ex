@@ -1,12 +1,12 @@
-defmodule NinetyNineElixirProblems.P1 do
-	@moduledoc ~S"""
+defmodule NinetyNineElixirProblems.P01 do
+  @moduledoc ~S"""
   Find the last element of a list.
 
   ## Examples:
-      iex> NinetyNineElixirProblems.P1.last [1,2,3,4]
+      iex> NinetyNineElixirProblems.P01.last [1,2,3,4]
       4
 
-      iex> NinetyNineElixirProblems.P1.last []
+      iex> NinetyNineElixirProblems.P01.last []
       nil
   """
   

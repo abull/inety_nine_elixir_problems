@@ -1,12 +1,12 @@
-defmodule NinetyNineElixirProblems.P3 do 
+defmodule NinetyNineElixirProblems.P03 do 
   @moduledoc ~S"""
   Find the nth element of a list.
 
   ## Examples:
-      iex> NinetyNineElixirProblems.P3.nth [1,2,3,4], 2
+      iex> NinetyNineElixirProblems.P03.nth [1,2,3,4], 2
       3
 
-      iex> NinetyNineElixirProblems.P3.nth  [1, 2, 3, 4], 5
+      iex> NinetyNineElixirProblems.P03.nth  [1, 2, 3, 4], 5
       nil
   """
 

@@ -1,12 +1,12 @@
-defmodule NinetyNineElixirProblems.P5 do
-	@moduledoc ~S"""
+defmodule NinetyNineElixirProblems.P05 do
+  @moduledoc ~S"""
   Reverse a list
 
   ## Examples:
-      iex> NinetyNineElixirProblems.P5.reverse [1,2,3,4]
+      iex> NinetyNineElixirProblems.P05.reverse [1,2,3,4]
       [4,3,2,1]
 
-      iex> NinetyNineElixirProblems.P5.reverse []
+      iex> NinetyNineElixirProblems.P05.reverse []
       []
   """
   def reverse([]) do
