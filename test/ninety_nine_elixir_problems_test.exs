@@ -12,5 +12,9 @@ defmodule NinetyNineElixirProblemsTest do
   doctest NinetyNineElixirProblems.P09
   doctest NinetyNineElixirProblems.P10
   doctest NinetyNineElixirProblems.P11
+  doctest NinetyNineElixirProblems.P12
+  doctest NinetyNineElixirProblems.P13
+  doctest NinetyNineElixirProblems.P14
+  doctest NinetyNineElixirProblems.P15
 
 end
