@@ -21,5 +21,7 @@ defmodule NinetyNineElixirProblemsTest do
   doctest NinetyNineElixirProblems.P18
   doctest NinetyNineElixirProblems.P19
   doctest NinetyNineElixirProblems.P20
+  doctest NinetyNineElixirProblems.P21
+  doctest NinetyNineElixirProblems.P22
 
 end
