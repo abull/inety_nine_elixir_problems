@@ -12,12 +12,12 @@ defmodule NinetyNineElixirProblems.P22 do
     [s]
   end
 
-  def range(s, e) when e > s do
+  def range(s, e) when e < s do
     :error
   end
 
   def range(s, e) do
-    [start | range(s+1, e)]
+    [s | range(s+1, e)]
   end
 
 end
